@@ -34,8 +34,6 @@ export default function NewIncident() {
     } catch (err) {
       alert('Erro ao cadastrar novo caso!!!')
     }
-
-    
   }
 
   return (
